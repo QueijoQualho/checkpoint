@@ -1,0 +1,19 @@
+.butao {
+    color: black;
+    background-color: white;
+    padding: 3% 15%;
+    font-weight: bold;
+    font-size: 1rem;
+    border-radius: 10px;
+    border: none;
+}
+
+.butao:hover {
+    color: white;
+    background-color: rgb(255, 0, 255);
+    transition: 0.2s ease-in;
+}
+
+.butao:focus {
+    outline: none;
+}

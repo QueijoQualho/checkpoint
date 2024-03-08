@@ -1,0 +1,17 @@
+.inputLogin{
+    width: 70%;
+    height: 50px;
+    margin: 2%;
+    background-color: black;
+    color:white;
+    font-weight: bold;
+    font-size: large;
+    border: none;
+    border-bottom: solid 2px white;
+}
+.inputLogin:focus{
+    outline: none;
+}
+.inputLogin::placeholder{
+    color: white;
+}

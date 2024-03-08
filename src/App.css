@@ -1,0 +1,19 @@
+* { 
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.container{
+  display: flex;
+  flex-direction: row;
+}
+
+.content{
+  height: 100vh;
+  width: 70vw;
+  background-image: url('https://store-images.s-microsoft.com/image/apps.24270.13847644057609868.a4a91f76-8d1c-4e19-aa78-f4d27d2818fb.d96146d7-d00a-4db9-ad68-197b2f962a17');
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
